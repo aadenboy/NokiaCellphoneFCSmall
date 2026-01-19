@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<svg>
 <metadata>
-Created by FontForge 20201107 at Mon Jan 19 02:08:33 2026
- By Unknown
+Created by FontForge 20120731 at Sun Jan 18 21:59:33 2026
+ By fw_worker
 Anonymous
 </metadata>
 <defs>
@@ -23,9 +23,12 @@ Anonymous
     underline-position="0"
     unicode-range="U+0020-3000"
   />
-<missing-glyph horiz-adv-x="0" 
+    <missing-glyph />
+    <glyph glyph-name="Character(Horizontal" horiz-adv-x="0" 
  />
-    <glyph glyph-name=".notdef" horiz-adv-x="0" 
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="682" 
  />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="768" 
  />
@@ -233,7 +236,7 @@ d="M1280 768v256h256v-256h-256zM0 768v256h256v-256h-256zM1024 1536v256h256v-256h
 d="M512 0v256h256v-256h-256zM768 1536v256h256v-256h-256zM256 1536v256h256v-256h-256zM1024 1280h256v-256h-256h-256v256h256zM256 1280h256v-256h-256h-256v256h256z" />
     <glyph glyph-name="EndofSelectedArea" 
 d="M512 0v256h256v-256h-256zM0 256v256h256v-256h-256zM1024 768v256h256v-256h-256zM256 1024v256h256v-256h-256zM512 768h256v-256h-256h-256v256h256zM1024 1024h-256v256h256v-256zM512 1280v256h256v-256h-256zM768 1536v256h256v-256h-256z" />
-    <glyph glyph-name="Character(Horizontal" 
+    <glyph glyph-name="uni0088" 
 d="M512 0v256h256v-256h-256zM0 256v256h256v-256h-256zM1024 768v256h256v-256h-256zM512 768h256v-256h-256h-256v256h256zM1024 1024h-256h-256h-256v256h256h256v256h256v-256v-256zM768 1536h-256v256h256v-256z" />
     <glyph glyph-name="Character(Horizontal" 
 d="M512 0v256h256v-256h-256zM0 256v256h256v-256h-256zM1024 1024v256h256v-256h-256zM0 1024v256h256v-256h-256zM512 768h256v-256h-256h-256v256h256zM1024 1280h-256v256h256v-256zM256 1280v256h256v-256h-256zM512 1536v256h256v-256h-256z" />
